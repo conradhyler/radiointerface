@@ -1,0 +1,11 @@
+/home/pi
+├── ce1d-ip.ini
+├── configure.sh
+├── rr-ip.ini
+└── Scripts
+    ├── ce1d
+    │   ├── ce1d.py
+    │   ├── duplicator.sh
+    │   └── monitor.sh
+    └── dialog
+        └── menu.sh
