@@ -1,1 +1,856 @@
 Log Started
+02/27/18 10:47:15 -- Time over 4 min -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 17:59:11    Diff: -25916
+02/27/18 10:47:27 -- Time over 4 min -- DPA: CASDF    Number:  2018002836 Name: BP BOULEVARD OFFICE BOU 7    Time: 22:24:44    Diff: -41837
+02/27/18 10:47:30 -- Time over 4 min -- DPA: CASDF    Number:  2018002851 Name: CB 8-0686 BOULEVARD    Time: 07:48:12    Diff: 10758
+02/27/18 10:49:48 -- No Match Found  --
+02/27/18 10:49:50 -- No Match Found  --
+02/27/18 10:49:50 -- No Match Found  --
+02/27/18 10:49:52 -- No Match Found  --
+02/27/18 10:49:53 -- No Match Found  --
+02/27/18 10:49:54 -- No Match Found  --
+02/27/18 10:49:54 -- No Match Found  --
+02/27/18 10:49:55 -- No Match Found  --
+02/27/18 10:51:17 -- No Match Found  --
+02/27/18 10:51:25 -- No Match Found  --
+02/27/18 10:51:38 -- No Match Found  --
+02/27/18 10:51:40 -- Time over 4 min -- DPA: CASDF    Number:  2018002851 Name: CB 8-0686 BOULEVARD    Time: 07:48:12    Diff: 11008
+02/27/18 10:53:31 -- Time over 4 min -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 17:59:11    Diff: -25540
+02/27/18 10:56:43 -- No Match Found  --
+02/27/18 11:37:24 -- Time over 4 min -- DPA: CASDF    Number:  2018003079 Name: RJ DONOVAN PRISON OTA 174    Time: 11:30:56    Diff: 388
+02/27/18 12:31:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018003084 Name: DONOVAN PRISON OTAY_ME 27    Time: 12:31:40   
+02/27/18 12:31:44 -- No Match Found  --
+02/27/18 14:13:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018003090 Name: RJ DONOVAN PRISON OTA 175    Time: 14:13:22   
+02/27/18 15:28:27 -- No Match Found  --
+02/27/18 15:28:53 -- No Match Found  --
+02/27/18 16:34:28 -- No Match Found  --
+02/27/18 18:42:14 -- No Match Found  --
+02/27/18 18:55:59 -- Alarm Triggered -- DPA: CASDF    Number:  2018003105 Name: HWY 94 HWY  DULZURA 5    Time: 18:55:57   
+02/27/18 19:05:05 -- No Match Found  --
+02/27/18 21:06:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018003110 Name: GEORGE BAILEY DETENTIO 43    Time: 21:06:44   
+02/27/18 22:59:50 -- No Match Found  --
+02/28/18 07:30:03 -- No Match Found  --
+02/28/18 09:19:40 -- Alarm Triggered -- DPA: CASDF    Number:  2018003120 Name: DONOVAN PRISON OTAY_ME 28    Time: 09:19:38    Diff: 2
+02/28/18 09:21:13 -- Alarm Triggered -- DPA: CASDF    Number:  2018003120 Name: DONOVAN PRISON OTAY_ME 28    Time: 09:19:38    Diff: 96
+02/28/18 09:42:30 -- Alarm Triggered -- DPA: CASDF    Number:  2018003121 Name: RJ DONOVAN PRISON OTA 176    Time: 09:42:27    Diff: 3
+02/28/18 09:48:52 -- No Match Found  --
+02/28/18 11:16:11 -- No Match Found  --
+02/28/18 11:57:08 -- No Match Found  --
+02/28/18 12:19:09 -- Alarm Triggered -- DPA: CASDF    Number:  2018003128 Name: DONOVAN PRISON OTAY_ME 29    Time: 12:19:06    Diff: 3
+02/28/18 12:19:10 -- Alarm Triggered -- DPA: CASDF    Number:  2018003128 Name: DONOVAN PRISON OTAY_ME 29    Time: 12:19:06    Diff: 4
+02/28/18 12:33:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018003129 Name: CALZADA DE LA FUENTE R 28    Time: 12:33:42    Diff: 1
+02/28/18 12:52:56 -- No Match Found  --
+02/28/18 14:03:34 -- No Match Found  --
+02/28/18 14:07:31 -- No Match Found  --
+02/28/18 15:56:05 -- Alarm Triggered -- DPA: CASDF    Number:  2018003145 Name: DONOVAN PRISON OTAY_ME 32    Time: 15:56:03    Diff: 2
+02/28/18 15:57:12 -- No Match Found  --
+02/28/18 16:00:40 -- No Match Found  --
+02/28/18 16:02:38 -- Alarm Triggered -- DPA: CASDF    Number:  2018003146 Name: RJ DONOVAN PRISON OTA 177    Time: 16:02:36    Diff: 2
+02/28/18 18:05:32 -- No Match Found  --
+02/28/18 18:53:23 -- Alarm Triggered -- DPA: CASDF    Number:  2018003158 Name: CCA SAN DIEGO OTAY 10    Time: 18:53:22    Diff: 1
+02/28/18 20:10:41 -- Alarm Triggered -- DPA: CASDF    Number:  2018003167 Name: CCA SAN DIEGO OTAY 11    Time: 20:10:40    Diff: 1
+02/28/18 21:09:11 -- No Match Found  --
+02/28/18 22:30:49 -- Alarm Triggered -- DPA: CASDF    Number:  2018003169 Name: RJ DONOVAN PRISON OTA 178    Time: 22:30:45    Diff: 4
+02/28/18 22:30:51 -- No Match Found  --
+02/28/18 23:07:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018003171 Name: GEORGE BAILEY DETENTIO 44    Time: 23:07:17    Diff: 2
+03/01/18 00:37:49 -- No Match Found  --
+03/01/18 01:25:23 -- No Match Found  --
+03/01/18 03:39:14 -- Alarm Triggered -- DPA: CASDF    Number:  2018003174 Name: HOLLYWOOD CASINO JAMUL 12    Time: 03:39:13    Diff: 1
+03/01/18 03:50:49 -- No Match Found  --
+03/01/18 07:30:04 -- No Match Found  --
+03/01/18 09:43:06 -- Alarm Triggered -- DPA: CASDF    Number:  2018003180 Name: DONOVAN PRISON OTAY_ME 33    Time: 09:43:04    Diff: 2
+03/01/18 09:43:07 -- Alarm Triggered -- DPA: CASDF    Number:  2018003180 Name: DONOVAN PRISON OTAY_ME 33    Time: 09:43:04    Diff: 3
+03/01/18 09:43:40 -- No Match Found  --
+03/01/18 11:52:38 -- No Match Found  --
+03/01/18 13:13:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018003189 Name: RJ DONOVAN PRISON OTA 179    Time: 13:13:05    Diff: 3
+03/01/18 14:32:48 -- Alarm Triggered -- DPA: CASDF    Number:  2018003193 Name: OTAY LAKES RD MP-4.5 OTAY    Time: 14:32:46    Diff: 2
+03/01/18 14:37:15 -- No Match Found  --
+03/01/18 16:28:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018003197 Name: RJ DONOVAN PRISON OTA 180    Time: 16:28:21    Diff: 3
+03/01/18 17:50:27 -- No Match Found  --
+03/01/18 17:53:04 -- Alarm Triggered -- DPA: CASDF    Number:  2018003202 Name: RJ DONOVAN PRISON OTA 181    Time: 17:51:08    Diff: 116
+03/01/18 19:04:58 -- No Match Found  --
+03/01/18 20:06:02 -- Alarm Triggered -- DPA: CASDF    Number:  2018003206 Name: GEORGE BAILEY DETENTIO 45    Time: 20:06:00    Diff: 2
+03/01/18 20:12:59 -- No Match Found  --
+03/01/18 21:14:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018003211 Name: PIPER RANCH RD  OTAY_ME 3    Time: 21:14:51    Diff: 1
+03/01/18 21:25:49 -- No Match Found  --
+03/01/18 21:42:47 -- No Match Found  --
+03/01/18 23:45:16 -- Alarm Triggered -- DPA: CASDF    Number:  2018003215 Name: DONOVAN PRISON OTAY_ME 34    Time: 23:45:13    Diff: 3
+03/02/18 00:20:14 -- No Match Found  --
+03/02/18 03:18:41 -- No Match Found  --
+03/02/18 07:30:03 -- No Match Found  --
+03/02/18 08:20:52 -- Time over 4 min -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 17:59:11    Diff: -34699
+03/02/18 08:21:35 -- Contained Abort -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 08:21:11    Diff: 24
+03/02/18 08:22:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 08:21:11    Diff: 95
+03/02/18 08:23:36 -- Alarm Triggered -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 08:21:11    Diff: 145
+03/02/18 08:24:05 -- Alarm Triggered -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 08:21:11    Diff: 174
+03/02/18 08:24:31 -- Contained Abort -- DPA: CASDF    Number:  2018002825 Name: SHASTA WY  TIERRA_DEL_SOL    Time: 08:21:11    Diff: 200
+03/02/18 11:41:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018003233 Name: RJ DONOVAN PRISON OTA 182    Time: 11:41:42    Diff: 4
+03/02/18 12:52:53 -- Contained Abort -- DPA: CASDF    Number:  2018003237 Name: DONOVAN PRISON OTAY_ME 35    Time: 12:52:47    Diff: 6
+03/02/18 13:17:44 -- Time over 4 min -- DPA: CASDF    Number:  2018002836 Name: BP BOULEVARD OFFICE BOU 7    Time: 22:24:44    Diff: -32820
+03/02/18 13:18:57 -- Alarm Triggered -- DPA: CASDF    Number:  2018002836 Name: BP BOULEVARD OFFICE BOU 7    Time: 13:18:44    Diff: 13
+03/02/18 13:50:21 -- Time over 4 min -- DPA: CASDF    Number:  2018003235 Name: RJ DONOVAN PRISON OTA 183    Time: 12:28:03    Diff: 4938
+03/02/18 13:50:22 -- No Match Found  --
+03/02/18 13:50:23 -- No Match Found  --
+03/02/18 13:50:32 -- Time over 4 min -- DPA: CASDF    Number:  2018003235 Name: RJ DONOVAN PRISON OTA 183    Time: 12:28:03    Diff: 4949
+03/02/18 14:58:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018003241 Name: YUCCA ST  JAMUL    Time: 14:58:45    Diff: 1
+03/02/18 15:00:44 -- No Match Found  --
+03/02/18 15:05:22 -- No Match Found  --
+03/02/18 16:24:31 -- No Match Found  --
+03/02/18 22:01:34 -- Alarm Triggered -- DPA: CASDF    Number:  2018003255 Name: GEORGE BAILEY DETENTIO 46    Time: 22:01:32    Diff: 2
+03/02/18 22:04:33 -- Alarm Triggered -- DPA: CASDF    Number:  2018003256 Name: GEORGE BAILEY DETENTIO 47    Time: 22:04:32    Diff: 1
+03/02/18 23:15:55 -- No Match Found  --
+03/02/18 23:51:49 -- Alarm Triggered -- DPA: CASDF    Number:  2018003258 Name: GEORGE BAILEY DETENTIO 48    Time: 23:51:48    Diff: 1
+03/03/18 00:10:42 -- No Match Found  --
+03/03/18 00:44:36 -- Alarm Triggered -- DPA: CASDF    Number:  2018003260 Name: RJ DONOVAN PRISON OTA 184    Time: 00:44:33    Diff: 3
+03/03/18 01:02:03 -- No Match Found  --
+03/03/18 02:57:09 -- No Match Found  --
+03/03/18 04:22:28 -- No Match Found  --
+03/03/18 04:22:43 -- No Match Found  --
+03/03/18 04:30:24 -- No Match Found  --
+03/03/18 07:30:02 -- No Match Found  --
+03/03/18 09:52:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018003274 Name: RJ DONOVAN PRISON OTA 185    Time: 09:52:49    Diff: 3
+03/03/18 12:42:53 -- No Match Found  --
+03/03/18 13:00:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018003283 Name: RJ DONOVAN PRISON OTA 186    Time: 13:00:22    Diff: 3
+03/03/18 13:16:33 -- No Match Found  --
+03/03/18 13:16:54 -- Time over 4 min -- DPA: CASDF    Number:  2018003283 Name: RJ DONOVAN PRISON OTA 186    Time: 13:00:22    Diff: 992
+03/03/18 15:03:37 -- No Match Found  --
+03/03/18 15:41:25 -- Time over 4 min -- DPA: CASDF    Number:  2018003294 Name: RJ DONOVAN PRISON OTA 187    Time: 15:36:31    Diff: 294
+03/03/18 17:48:27 -- Alarm Triggered -- DPA: CASDF    Number:  2018003302 Name: RJ DONOVAN PRISON OTA 188    Time: 17:48:24    Diff: 3
+03/03/18 17:55:02 -- No Match Found  --
+03/03/18 20:05:38 -- No Match Found  --
+03/03/18 21:45:55 -- Alarm Triggered -- DPA: CASDF    Number:  2018003315 Name: HWY 94 HWY / PROCTOR VA 2    Time: 21:45:53    Diff: 2
+03/03/18 22:01:39 -- No Match Found  --
+03/04/18 01:48:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018003321 Name: DONOVAN PRISON OTAY_ME 36    Time: 01:48:23    Diff: 2
+03/04/18 03:34:21 -- No Match Found  --
+03/04/18 06:35:30 -- Alarm Triggered -- DPA: CASDF    Number:  2018003328 Name: DONOVAN PRISON OTAY_ME 37    Time: 06:35:28    Diff: 2
+03/04/18 07:30:03 -- No Match Found  --
+03/04/18 08:05:31 -- Alarm Triggered -- DPA: CASDF    Number:  2018003330 Name: GEORGE BAILEY DETENTIO 49    Time: 08:05:29    Diff: 2
+03/04/18 08:58:43 -- No Match Found  --
+03/04/18 10:23:10 -- No Match Found  --
+03/04/18 16:23:03 -- Alarm Triggered -- DPA: CASDF    Number:  2018003353 Name: DONOVAN PRISON OTAY_ME 38    Time: 16:23:00    Diff: 3
+03/04/18 19:03:04 -- No Match Found  --
+03/04/18 23:19:57 -- Alarm Triggered -- DPA: CASDF    Number:  2018003366 Name: GEORGE BAILEY DETENTIO 50    Time: 23:19:55    Diff: 2
+03/05/18 00:15:36 -- Alarm Triggered -- DPA: CASDF    Number:  2018003367 Name: RJ DONOVAN PRISON OTA 189    Time: 00:15:34    Diff: 2
+03/05/18 01:17:02 -- No Match Found  --
+03/05/18 01:45:50 -- No Match Found  --
+03/05/18 07:30:03 -- No Match Found  --
+03/05/18 08:53:10 -- Alarm Triggered -- DPA: CASDF    Number:  2018003377 Name: RJ DONOVAN PRISON OTA 190    Time: 08:53:08    Diff: 2
+03/05/18 08:59:23 -- Time over 4 min -- DPA: CASDF    Number:  2018003377 Name: RJ DONOVAN PRISON OTA 190    Time: 08:53:08    Diff: 375
+03/05/18 09:01:46 -- No Match Found  --
+03/05/18 09:06:34 -- Alarm Triggered -- DPA: CASDF    Number:  2018003379 Name: RJ DONOVAN PRISON OTA 191    Time: 09:06:32    Diff: 2
+03/05/18 09:33:12 -- Alarm Triggered -- DPA: CASDF    Number:  2018003382 Name: RJ DONOVAN PRISON OTA 193    Time: 09:33:09    Diff: 3
+03/05/18 10:54:24 -- No Match Found  --
+03/05/18 14:01:15 -- Alarm Triggered -- DPA: CASDF    Number:  2018003395 Name: RJ DONOVAN PRISON OTA 196    Time: 14:00:58    Diff: 17
+03/05/18 14:34:05 -- No Match Found  --
+03/05/18 17:10:25 -- No Match Found  --
+03/05/18 21:07:10 -- Alarm Triggered -- DPA: CASDF    Number:  2018003416 Name: ALTA LOMA CT  JAMUL    Time: 21:07:09    Diff: 2
+03/05/18 22:45:17 -- Alarm Triggered -- DPA: CASDF    Number:  2018003417 Name: DONOVAN PRISON OTAY_ME 39    Time: 22:45:15    Diff: 2
+03/05/18 23:06:49 -- No Match Found  --
+03/06/18 00:25:01 -- No Match Found  --
+03/06/18 00:44:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018003418 Name: WILD COLT PL  JAMUL    Time: 00:44:45    Diff: 1
+03/06/18 01:25:44 -- No Match Found  --
+03/06/18 07:30:03 -- No Match Found  --
+03/06/18 11:46:33 -- Alarm Triggered -- DPA: CASDF    Number:  2018003439 Name: RJ DONOVAN PRISON OTA 199    Time: 11:46:30    Diff: 3
+03/06/18 13:48:51 -- No Match Found  --
+03/06/18 18:38:21 -- Alarm Triggered -- DPA: CASDF    Number:  2018003467 Name: RJ DONOVAN PRISON OTA 200    Time: 18:38:18    Diff: 3
+03/06/18 20:31:23 -- No Match Found  --
+03/06/18 20:57:04 -- Alarm Triggered -- DPA: CASDF    Number:  2018003481 Name: GEORGE BAILEY DETENTIO 52    Time: 20:57:02    Diff: 2
+03/06/18 22:36:26 -- No Match Found  --
+03/07/18 07:30:03 -- No Match Found  --
+03/07/18 09:03:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018003498 Name: CALZADA DE LA FUENTE R 30    Time: 09:03:22    Diff: 2
+03/07/18 09:12:22 -- Alarm Triggered -- DPA: CASDF    Number:  2018003500 Name: HWY 94 HWY / VISTA SAGE 3    Time: 09:12:20    Diff: 2
+03/07/18 16:21:06 -- No Match Found  --
+03/07/18 17:46:23 -- No Match Found  --
+03/07/18 21:29:33 -- Alarm Triggered -- DPA: CASDF    Number:  2018003533 Name: RJ DONOVAN PRISON OTA 203    Time: 21:29:31    Diff: 2
+03/07/18 22:49:11 -- No Match Found  --
+03/08/18 07:30:05 -- No Match Found  --
+03/08/18 10:18:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018003561 Name: DONOVAN PRISON OTAY_ME 42    Time: 10:18:48    Diff: 4
+03/08/18 11:53:49 -- No Match Found  --
+03/08/18 12:32:10 -- Alarm Triggered -- DPA: CASDF    Number:  2018003569 Name: RJ DONOVAN PRISON OTA 207    Time: 12:31:09    Diff: 61
+03/08/18 13:52:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018003574 Name: CALZADA DE LA FUENTE R 31    Time: 13:52:45    Diff: 1
+03/08/18 14:28:56 -- Alarm Triggered -- DPA: CASDF    Number:  2018003577 Name: DONOVAN PRISON OTAY_ME 43    Time: 14:28:53    Diff: 3
+03/08/18 14:46:21 -- No Match Found  --
+03/08/18 15:39:19 -- No Match Found  --
+03/08/18 17:55:14 -- No Match Found  --
+03/08/18 18:27:13 -- Alarm Triggered -- DPA: CASDF    Number:  2018003592 Name: RJ DONOVAN PRISON OTA 208    Time: 18:27:11    Diff: 2
+03/08/18 20:17:30 -- No Match Found  --
+03/09/18 07:30:04 -- No Match Found  --
+03/09/18 10:38:42 -- Alarm Triggered -- DPA: CASDF    Number:  2018003628 Name: RJ DONOVAN PRISON OTA 209    Time: 10:38:39    Diff: 3
+03/09/18 10:48:32 -- Alarm Triggered -- DPA: CASDF    Number:  2018003629 Name: RJ DONOVAN PRISON OTA 210    Time: 10:47:57    Diff: 35
+03/09/18 13:03:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018003631 Name: HWY 94 HWY / OTAY LAKES 3    Time: 13:03:49    Diff: 2
+03/09/18 13:24:44 -- No Match Found  --
+03/09/18 13:39:02 -- No Match Found  --
+03/09/18 13:39:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018003639 Name: CCA SAN DIEGO OTAY 13    Time: 13:38:45    Diff: 23
+03/09/18 14:53:49 -- No Match Found  --
+03/09/18 15:27:05 -- Time over 4 min -- DPA: CASDF    Number:  2018003644 Name: RJ DONOVAN PRISON OTA 211    Time: 14:48:22    Diff: 2323
+03/09/18 15:27:06 -- No Match Found  --
+03/09/18 16:58:21 -- Alarm Triggered -- DPA: CASDF    Number:  2018003653 Name: GEORGE BAILEY DETENTIO 53    Time: 16:58:19    Diff: 2
+03/09/18 17:17:12 -- No Match Found  --
+03/09/18 18:34:26 -- No Match Found  --
+03/09/18 19:11:45 -- No Match Found  --
+03/10/18 06:43:47 -- No Match Found  --
+03/10/18 06:51:04 -- No Match Found  --
+03/10/18 07:30:03 -- No Match Found  --
+03/10/18 14:43:06 -- Alarm Triggered -- DPA: CASDF    Number:  2018003689 Name: HWY 94 HWY / OTAY LAKES 4    Time: 14:43:05    Diff: 1
+03/10/18 14:50:36 -- No Match Found  --
+03/10/18 17:20:14 -- Alarm Triggered -- DPA: CASDF    Number:  2018003703 Name: RJ DONOVAN PRISON OTA 213    Time: 17:20:10    Diff: 4
+03/10/18 18:55:10 -- No Match Found  --
+03/10/18 21:06:41 -- Alarm Triggered -- DPA: CASDF    Number:  2018003721 Name: GEORGE BAILEY DETENTIO 54    Time: 21:06:38    Diff: 3
+03/10/18 22:24:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018003725 Name: STN30 - DULZURA DULZURA 2    Time: 22:24:51    Diff: 1
+03/10/18 22:33:09 -- No Match Found  --
+03/10/18 22:55:17 -- No Match Found  --
+03/11/18 07:30:02 -- No Match Found  --
+03/11/18 07:36:30 -- Alarm Triggered -- DPA: CASDF    Number:  2018003737 Name: GEORGE BAILEY DETENTIO 55    Time: 07:36:29    Diff: 2
+03/11/18 08:55:24 -- No Match Found  --
+03/11/18 09:06:11 -- Alarm Triggered -- DPA: CASDF    Number:  2018003741 Name: RJ DONOVAN PRISON OTA 214    Time: 09:06:08    Diff: 3
+03/11/18 10:49:21 -- No Match Found  --
+03/11/18 20:51:18 -- Alarm Triggered -- DPA: CASDF    Number:  2018003775 Name: RJ DONOVAN PRISON OTA 215    Time: 20:51:15    Diff: 3
+03/11/18 21:20:38 -- Alarm Triggered -- DPA: CASDF    Number:  2018003776 Name: RJ DONOVAN PRISON OTA 216    Time: 21:20:36    Diff: 3
+03/11/18 21:20:52 -- No Match Found  --
+03/11/18 22:38:53 -- Alarm Triggered -- DPA: CASDF    Number:  2018003781 Name: GEORGE BAILEY DETENTIO 56    Time: 22:38:51    Diff: 2
+03/11/18 22:52:59 -- No Match Found  --
+03/11/18 23:49:51 -- No Match Found  --
+03/12/18 05:39:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018003788 Name: RJ DONOVAN PRISON OTA 218    Time: 05:39:21    Diff: 3
+03/12/18 07:30:04 -- No Match Found  --
+03/12/18 07:37:55 -- No Match Found  --
+03/12/18 11:43:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018003798 Name: DONOVAN PRISON OTAY_ME 44    Time: 11:43:05    Diff: 3
+03/12/18 12:29:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018003803 Name: DONOVAN PRISON OTAY_ME 45    Time: 12:29:21    Diff: 3
+03/12/18 12:54:07 -- Alarm Triggered -- DPA: CASDF    Number:  2018003807 Name: DONOVAN PRISON OTAY_ME 46    Time: 12:54:05    Diff: 2
+03/12/18 13:50:00 -- No Match Found  --
+03/12/18 14:40:21 -- Alarm Triggered -- DPA: CASDF    Number:  2018003810 Name: RJ DONOVAN PRISON OTA 219    Time: 14:40:15    Diff: 6
+03/12/18 15:07:49 -- No Match Found  --
+03/12/18 15:23:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018003814 Name: ELENA LN  DEERHORN_VALL 2    Time: 15:23:07    Diff: 1
+03/12/18 15:53:41 -- Alarm Triggered -- DPA: CASDF    Number:  2018003816 Name: GEORGE BAILEY DETENTIO 57    Time: 15:53:38    Diff: 3
+03/12/18 17:26:26 -- No Match Found  --
+03/12/18 17:42:43 -- No Match Found  --
+03/12/18 17:42:53 -- Alarm Triggered -- DPA: CASDF    Number:  2018003821 Name: TECATE POE POTRERO 10    Time: 17:42:52    Diff: 1
+03/12/18 17:42:54 -- No Match Found  --
+03/12/18 18:05:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018003824 Name: RJ DONOVAN PRISON OTA 220    Time: 18:05:41    Diff: 2
+03/12/18 19:48:21 -- No Match Found  --
+03/12/18 20:22:07 -- No Match Found  --
+03/13/18 07:22:36 -- Time over 4 min -- DPA: CASDF    Number:  2018003843 Name: GEORGE BAILEY DETENTIO 58    Time: 07:16:22    Diff: 374
+03/13/18 07:31:43 -- No Match Found  --
+03/13/18 08:40:44 -- No Match Found  --
+03/13/18 10:48:20 -- Time over 4 min -- DPA: CASDF    Number:  2018003847 Name: RJ DONOVAN PRISON OTA 221    Time: 10:30:46    Diff: 1054
+03/13/18 12:57:53 -- No Match Found  --
+03/13/18 20:26:47 -- Alarm Triggered -- DPA: CASDF    Number:  2018003868 Name: RJ DONOVAN PRISON OTA 224    Time: 20:25:04    Diff: 103
+03/13/18 22:32:10 -- No Match Found  --
+03/14/18 07:31:43 -- No Match Found  --
+03/14/18 09:23:27 -- Alarm Triggered -- DPA: CASDF    Number:  2018003891 Name: RJ DONOVAN PRISON OTA 225    Time: 09:21:45    Diff: 102
+03/14/18 11:21:04 -- Alarm Triggered -- DPA: CASDF    Number:  2018003903 Name: RJ DONOVAN PRISON OTA 226    Time: 11:19:20    Diff: 104
+03/14/18 13:23:12 -- No Match Found  --
+03/14/18 14:40:45 -- No Match Found  --
+03/14/18 15:07:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018003918 Name: OTAY LAKES RD  OTAY_LA 13    Time: 15:05:42    Diff: 102
+03/14/18 16:43:32 -- Alarm Triggered -- DPA: CASDF    Number:  2018003922 Name: RJ DONOVAN PRISON OTA 227    Time: 16:43:29    Diff: 3
+03/14/18 17:15:15 -- No Match Found  --
+03/14/18 18:47:15 -- No Match Found  --
+03/14/18 19:08:58 -- No Match Found  --
+03/14/18 19:09:00 -- No Match Found  --
+03/14/18 19:09:02 -- No Match Found  --
+03/14/18 19:09:04 -- No Match Found  --
+03/14/18 21:15:29 -- Alarm Triggered -- DPA: CASDF    Number:  2018003935 Name: DONOVAN PRISON OTAY_ME 47    Time: 21:15:25    Diff: 4
+03/14/18 23:23:29 -- No Match Found  --
+03/15/18 07:30:05 -- No Match Found  --
+03/15/18 08:09:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018003955 Name: RJ DONOVAN PRISON OTA 228    Time: 08:09:23    Diff: 3
+03/15/18 10:30:38 -- No Match Found  --
+03/15/18 12:18:22 -- Alarm Triggered -- DPA: CASDF    Number:  2018003967 Name: CALZADA DE LA FUENTE R 36    Time: 12:18:21    Diff: 1
+03/15/18 14:44:21 -- No Match Found  --
+03/15/18 15:16:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018003972 Name: RJ DONOVAN PRISON OTA 229    Time: 15:16:21    Diff: 3
+03/15/18 15:30:49 -- No Match Found  --
+03/15/18 15:40:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018003975 Name: RJ DONOVAN PRISON OTA 230    Time: 15:40:05    Diff: 3
+03/15/18 17:19:30 -- No Match Found  --
+03/15/18 18:15:34 -- Alarm Triggered -- DPA: CASDF    Number:  2018003980 Name: RJ DONOVAN PRISON OTA 231    Time: 18:15:32    Diff: 2
+03/15/18 20:13:29 -- Alarm Triggered -- DPA: CASDF    Number:  2018003989 Name: CALZADA DE LA FUENTE R 37    Time: 20:13:27    Diff: 2
+03/15/18 22:00:08 -- Time over 4 min -- DPA: CASDF    Number:  2018003990 Name: RJ DONOVAN PRISON OTA 233    Time: 21:53:57    Diff: 371
+03/15/18 22:00:09 -- No Match Found  --
+03/15/18 23:09:11 -- No Match Found  --
+03/15/18 23:17:27 -- Alarm Triggered -- DPA: CASDF    Number:  2018003993 Name: EAST MESA DETENTION FAC 3    Time: 23:17:25    Diff: 2
+03/16/18 00:34:52 -- No Match Found  --
+03/16/18 00:39:47 -- No Match Found  --
+03/16/18 07:27:10 -- Alarm Triggered -- DPA: CASDF    Number:  2018004004 Name: RJ DONOVAN PRISON OTA 234    Time: 07:27:07    Diff: 3
+03/16/18 07:30:03 -- No Match Found  --
+03/16/18 08:02:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018004005 Name: DONOVAN PRISON OTAY_ME 48    Time: 08:02:43    Diff: 3
+03/16/18 09:33:52 -- No Match Found  --
+03/16/18 09:43:11 -- Alarm Triggered -- DPA: CASDF    Number:  2018004011 Name: RJ DONOVAN PRISON OTA 235    Time: 09:43:00    Diff: 11
+03/16/18 10:09:42 -- No Match Found  --
+03/16/18 11:55:54 -- Alarm Triggered -- DPA: CASDF    Number:  2018004022 Name: RJ DONOVAN PRISON OTA 237    Time: 11:55:50    Diff: 4
+03/16/18 11:56:13 -- No Match Found  --
+03/16/18 12:06:36 -- Alarm Triggered -- DPA: CASDF    Number:  2018004024 Name: RJ DONOVAN PRISON OTA 238    Time: 12:06:33    Diff: 3
+03/16/18 14:08:40 -- No Match Found  --
+03/16/18 14:08:49 -- Alarm Triggered -- DPA: CASDF    Number:  2018004030 Name: RJ DONOVAN PRISON OTA 239    Time: 14:08:46    Diff: 3
+03/16/18 14:10:08 -- No Match Found  --
+03/16/18 14:10:12 -- Alarm Triggered -- DPA: CASDF    Number:  2018004030 Name: RJ DONOVAN PRISON OTA 239    Time: 14:08:46    Diff: 86
+03/16/18 14:11:57 -- No Match Found  --
+03/16/18 14:31:27 -- Alarm Triggered -- DPA: CASDF    Number:  2018004032 Name: RJ DONOVAN PRISON OTA 240    Time: 14:31:24    Diff: 3
+03/16/18 14:33:01 -- No Match Found  --
+03/16/18 16:18:50 -- No Match Found  --
+03/16/18 21:03:00 -- No Match Found  --
+03/16/18 21:11:32 -- No Match Found  --
+03/16/18 23:44:15 -- Alarm Triggered -- DPA: CASDF    Number:  2018004049 Name: GEORGE BAILEY DETENTIO 59    Time: 23:44:12    Diff: 3
+03/17/18 01:12:15 -- No Match Found  --
+03/17/18 07:30:02 -- No Match Found  --
+03/17/18 18:27:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018004074 Name: RJ DONOVAN PRISON OTA 243    Time: 18:27:22    Diff: 3
+03/17/18 18:42:56 -- Time over 4 min -- DPA: CASDF    Number:  2018004073 Name: RJ DONOVAN PRISON OTA 242    Time: 18:22:23    Diff: 1233
+03/17/18 20:22:22 -- No Match Found  --
+03/17/18 20:59:11 -- Time over 4 min -- DPA: CASDF    Number:  2018004082 Name: RJ DONOVAN PRISON OTA 244    Time: 20:52:13    Diff: 418
+03/17/18 21:24:07 -- No Match Found  --
+03/17/18 21:31:31 -- No Match Found  --
+03/17/18 22:39:31 -- No Match Found  --
+03/18/18 00:31:11 -- No Match Found  --
+03/18/18 04:34:56 -- No Match Found  --
+03/18/18 07:06:55 -- Alarm Triggered -- DPA: CASDF    Number:  2018004102 Name: PIPER RANCH RD  OTAY_ME 4    Time: 07:06:54    Diff: 1
+03/18/18 07:30:03 -- No Match Found  --
+03/18/18 08:26:32 -- No Match Found  --
+03/18/18 08:29:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018004107 Name: RJ DONOVAN PRISON OTA 245    Time: 08:29:48    Diff: 3
+03/18/18 10:23:17 -- No Match Found  --
+03/18/18 10:43:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018004111 Name: I 8 HWY W/ RIBBONWOOD R 2    Time: 10:43:50    Diff: 2
+03/18/18 10:43:58 -- No Match Found  --
+03/18/18 20:32:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018004144 Name: TWIN LAKES PARK RESORT  4    Time: 20:32:42    Diff: 1
+03/19/18 00:23:24 -- No Match Found  --
+03/19/18 07:30:05 -- No Match Found  --
+03/19/18 13:03:12 -- Alarm Triggered -- DPA: CASDF    Number:  2018004177 Name: DONOVAN PRISON OTAY_ME 49    Time: 13:03:05    Diff: 7
+03/19/18 14:17:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018004184 Name: DONOVAN PRISON OTAY_ME 50    Time: 14:17:48    Diff: 3
+03/19/18 14:22:06 -- No Match Found  --
+03/19/18 16:20:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018004194 Name: DONOVAN PRISON OTAY_ME 51    Time: 16:20:48    Diff: 3
+03/19/18 17:05:28 -- No Match Found  --
+03/19/18 18:07:32 -- No Match Found  --
+03/19/18 18:51:25 -- No Match Found  --
+03/19/18 22:39:22 -- Alarm Triggered -- DPA: CASDF    Number:  2018004205 Name: RJ DONOVAN PRISON OTA 247    Time: 22:39:19    Diff: 4
+03/19/18 23:58:18 -- No Match Found  --
+03/20/18 07:30:05 -- No Match Found  --
+03/20/18 09:02:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018004221 Name: RJ DONOVAN PRISON OTA 248    Time: 09:02:49    Diff: 3
+03/20/18 09:14:50 -- No Match Found  --
+03/20/18 13:04:49 -- No Match Found  --
+03/20/18 13:11:28 -- Alarm Triggered -- DPA: CASDF    Number:  2018004230 Name: RJ DONOVAN PRISON OTA 250    Time: 13:11:25    Diff: 3
+03/20/18 14:19:50 -- No Match Found  --
+03/20/18 20:23:01 -- Time over 4 min -- DPA: CASDF    Number:  2018004252 Name: RJ DONOVAN PRISON OTA 255    Time: 19:16:13    Diff: 4008
+03/20/18 22:22:02 -- No Match Found  --
+03/21/18 07:31:43 -- No Match Found  --
+03/21/18 11:07:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018004280 Name: DONOVAN PRISON OTAY_ME 52    Time: 11:05:36    Diff: 103
+03/21/18 12:59:44 -- Alarm Triggered -- DPA: CASDF    Number:  2018004289 Name: DONOVAN PRISON OTAY_ME 53    Time: 12:58:01    Diff: 103
+03/21/18 14:30:18 -- No Match Found  --
+03/21/18 15:01:41 -- No Match Found  --
+03/21/18 16:51:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018004300 Name: CALZADA DE LA FUENTE R 39    Time: 16:49:37    Diff: 102
+03/21/18 19:08:43 -- No Match Found  --
+03/21/18 19:22:39 -- Alarm Triggered -- DPA: CASDF    Number:  2018004308 Name: DONOVAN PRISON OTAY_ME 56    Time: 19:20:56    Diff: 103
+03/21/18 20:02:01 -- No Match Found  --
+03/21/18 23:07:29 -- Alarm Triggered -- DPA: CASDF    Number:  2018004322 Name: RJ DONOVAN PRISON OTA 256    Time: 23:05:47    Diff: 102
+03/22/18 01:00:45 -- No Match Found  --
+03/22/18 01:38:49 -- Alarm Triggered -- DPA: CASDF    Number:  2018004328 Name: RJ DONOVAN PRISON OTA 257    Time: 01:37:07    Diff: 102
+03/22/18 02:59:12 -- No Match Found  --
+03/22/18 07:31:43 -- No Match Found  --
+03/22/18 08:31:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018004333 Name: RJ DONOVAN PRISON OTA 258    Time: 08:30:00    Diff: 103
+03/22/18 08:34:17 -- Time over 4 min -- DPA: CASDF    Number:  2018004333 Name: RJ DONOVAN PRISON OTA 258    Time: 08:30:00    Diff: 258
+03/22/18 09:18:56 -- Alarm Triggered -- DPA: CASDF    Number:  2018004335 Name: RJ DONOVAN PRISON OTA 259    Time: 09:17:14    Diff: 102
+03/22/18 11:03:10 -- No Match Found  --
+03/22/18 11:57:24 -- No Match Found  --
+03/22/18 12:46:35 -- Alarm Triggered -- DPA: CASDF    Number:  2018004351 Name: DONOVAN PRISON OTAY_ME 58    Time: 12:44:52    Diff: 103
+03/22/18 12:48:52 -- Time over 4 min -- DPA: CASDF    Number:  2018004351 Name: DONOVAN PRISON OTAY_ME 58    Time: 12:44:52    Diff: 241
+03/22/18 13:33:40 -- Alarm Triggered -- DPA: CASDF    Number:  2018004354 Name: DONOVAN PRISON OTAY_ME 59    Time: 13:31:58    Diff: 102
+03/22/18 15:12:57 -- No Match Found  --
+03/22/18 16:18:59 -- No Match Found  --
+03/22/18 21:45:17 -- Alarm Triggered -- DPA: CASDF    Number:  2018004373 Name: GEORGE BAILEY DETENTIO 61    Time: 21:43:32    Diff: 105
+03/22/18 23:09:40 -- No Match Found  --
+03/23/18 07:31:42 -- No Match Found  --
+03/23/18 13:19:06 -- Alarm Triggered -- DPA: CASDF    Number:  2018004394 Name: RJ DONOVAN PRISON OTA 262    Time: 13:17:24    Diff: 102
+03/23/18 15:37:21 -- No Match Found  --
+03/23/18 18:07:39 -- Alarm Triggered -- DPA: CASDF    Number:  2018004404 Name: RJ DONOVAN PRISON OTA 263    Time: 18:05:57    Diff: 102
+03/23/18 19:33:38 -- No Match Found  --
+03/23/18 19:35:53 -- No Match Found  --
+03/23/18 19:36:30 -- No Match Found  --
+03/23/18 19:36:47 -- No Match Found  --
+03/23/18 19:36:49 -- No Match Found  --
+03/23/18 19:36:58 -- No Match Found  --
+03/23/18 19:37:21 -- No Match Found  --
+03/23/18 19:37:50 -- No Match Found  --
+03/23/18 19:38:11 -- No Match Found  --
+03/23/18 19:38:27 -- No Match Found  --
+03/23/18 19:38:43 -- No Match Found  --
+03/23/18 19:38:56 -- No Match Found  --
+03/23/18 19:39:20 -- No Match Found  --
+03/23/18 19:39:44 -- No Match Found  --
+03/23/18 19:40:08 -- No Match Found  --
+03/23/18 19:40:32 -- No Match Found  --
+03/23/18 19:40:56 -- No Match Found  --
+03/23/18 19:41:20 -- No Match Found  --
+03/23/18 19:42:17 -- No Match Found  --
+03/23/18 19:42:37 -- No Match Found  --
+03/23/18 19:42:53 -- No Match Found  --
+03/23/18 19:43:09 -- No Match Found  --
+03/23/18 19:43:23 -- No Match Found  --
+03/23/18 19:43:32 -- No Match Found  --
+03/23/18 19:44:11 -- No Match Found  --
+03/23/18 19:44:38 -- No Match Found  --
+03/23/18 20:06:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018004411 Name: RJ DONOVAN PRISON OTA 264    Time: 20:04:42    Diff: 103
+03/23/18 20:38:04 -- No Match Found  --
+03/23/18 21:52:04 -- No Match Found  --
+03/23/18 22:07:32 -- Alarm Triggered -- DPA: CASDF    Number:  2018004416 Name: RJ DONOVAN PRISON OTA 266    Time: 22:04:26    Diff: 186
+03/24/18 00:01:08 -- No Match Found  --
+03/24/18 03:56:50 -- Alarm Triggered -- DPA: CASDF    Number:  2018004428 Name: RJ DONOVAN PRISON OTA 267    Time: 03:55:07    Diff: 103
+03/24/18 06:04:37 -- No Match Found  --
+03/24/18 07:31:42 -- No Match Found  --
+03/24/18 11:11:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018004438 Name: CEDAR CREEK FALLS -RAMO 2    Time: 11:10:10    Diff: 101
+03/24/18 11:14:54 -- No Match Found  --
+03/24/18 12:45:59 -- No Match Found  --
+03/24/18 22:57:59 -- Alarm Triggered -- DPA: CASDF    Number:  2018004473 Name: CCA SAN DIEGO OTAY 14    Time: 22:56:17    Diff: 102
+03/25/18 00:35:23 -- No Match Found  --
+03/25/18 00:49:53 -- Alarm Triggered -- DPA: CASDF    Number:  2018004474 Name: DONOVAN PRISON OTAY_ME 61    Time: 00:48:11    Diff: 102
+03/25/18 02:25:04 -- No Match Found  --
+03/25/18 05:12:50 -- No Match Found  --
+03/25/18 07:31:43 -- No Match Found  --
+03/26/18 07:31:43 -- No Match Found  --
+03/26/18 11:31:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018004534 Name: CALZADA DE LA FUENTE R 40    Time: 11:29:38    Diff: 101
+03/26/18 14:15:22 -- No Match Found  --
+03/26/18 17:44:20 -- No Match Found  --
+03/26/18 22:34:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018004568 Name: CCA SAN DIEGO OTAY 16    Time: 22:33:10    Diff: 102
+03/27/18 00:14:37 -- No Match Found  --
+03/27/18 07:31:43 -- No Match Found  --
+03/27/18 09:15:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018004578 Name: RJ DONOVAN PRISON OTA 269    Time: 09:13:33    Diff: 106
+03/27/18 11:53:48 -- Alarm Triggered -- DPA: CASDF    Number:  2018004587 Name: RJ DONOVAN PRISON OTA 270    Time: 11:52:04    Diff: 104
+03/27/18 11:55:28 -- Alarm Triggered -- DPA: CASDF    Number:  2018004587 Name: RJ DONOVAN PRISON OTA 270    Time: 11:52:04    Diff: 204
+03/27/18 11:58:48 -- No Match Found  --
+03/27/18 15:26:22 -- No Match Found  --
+03/27/18 18:00:57 -- Alarm Triggered -- DPA: CASDF    Number:  2018004603 Name: GEORGE BAILEY DETENTIO 62    Time: 17:59:15    Diff: 102
+03/27/18 20:03:35 -- Alarm Triggered -- DPA: CASDF    Number:  2018004613 Name: RJ DONOVAN PRISON OTA 271    Time: 20:01:52    Diff: 103
+03/27/18 21:37:16 -- Alarm Triggered -- DPA: CASDF    Number:  2018004615 Name: CALZADA DE LA FUENTE R 41    Time: 21:35:34    Diff: 102
+03/27/18 21:38:56 -- No Match Found  --
+03/27/18 21:42:17 -- No Match Found  --
+03/27/18 23:17:54 -- No Match Found  --
+03/28/18 06:38:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018004620 Name: EAST MESA DETENTION FAC 4    Time: 06:37:09    Diff: 102
+03/28/18 07:31:42 -- No Match Found  --
+03/28/18 07:58:53 -- No Match Found  --
+03/29/18 04:33:21 -- Alarm Triggered -- DPA: CASDF    Number:  2018004662 Name: CALZADA DE LA FUENTE R 42    Time: 04:31:39    Diff: 102
+03/29/18 06:08:15 -- No Match Found  --
+03/29/18 07:31:46 -- No Match Found  --
+03/29/18 11:50:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018004676 Name: DONOVAN PRISON OTAY_ME 63    Time: 11:49:08    Diff: 104
+03/29/18 11:54:12 -- Time over 4 min -- DPA: CASDF    Number:  2018004676 Name: DONOVAN PRISON OTAY_ME 63    Time: 11:49:08    Diff: 304
+03/29/18 12:05:27 -- Alarm Triggered -- DPA: CASDF    Number:  2018004678 Name: DONOVAN PRISON OTAY_ME 64    Time: 12:03:45    Diff: 102
+03/29/18 12:35:47 -- Alarm Triggered -- DPA: CASDF    Number:  2018004681 Name: DONOVAN PRISON OTAY_ME 65    Time: 12:34:05    Diff: 102
+03/29/18 13:29:00 -- No Match Found  --
+03/29/18 15:13:23 -- No Match Found  --
+03/29/18 16:15:39 -- No Match Found  --
+03/29/18 17:16:39 -- Alarm Triggered -- DPA: CASDF    Number:  2018004693 Name: DONOVAN PRISON OTAY_ME 66    Time: 17:16:37    Diff: 3
+03/29/18 18:05:33 -- Alarm Triggered -- DPA: CASDF    Number:  2018004695 Name: DONOVAN PRISON OTAY_ME 67    Time: 18:03:51    Diff: 102
+03/29/18 19:41:46 -- No Match Found  --
+03/29/18 20:25:45 -- No Match Found  --
+03/29/18 23:06:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018004709 Name: GEORGE BAILEY DETENTIO 63    Time: 23:04:57    Diff: 106
+03/30/18 00:46:58 -- No Match Found  --
+03/30/18 07:31:43 -- No Match Found  --
+03/30/18 14:23:59 -- Alarm Triggered -- DPA: CASDF    Number:  2018004745 Name: HUMPHRIES RD  POTRERO 2    Time: 14:22:18    Diff: 102
+03/30/18 17:36:55 -- No Match Found  --
+03/30/18 18:01:13 -- Alarm Triggered -- DPA: CASDF    Number:  2018004761 Name: RJ DONOVAN PRISON OTA 274    Time: 18:01:10    Diff: 4
+03/30/18 19:52:18 -- No Match Found  --
+03/30/18 21:46:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018004769 Name: HWY 94 HWY  JAMUL 17    Time: 21:46:45    Diff: 1
+03/30/18 22:00:57 -- No Match Found  --
+03/30/18 22:09:03 -- No Match Found  --
+03/30/18 23:25:21 -- No Match Found  --
+03/31/18 07:30:02 -- No Match Found  --
+03/31/18 08:10:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018004783 Name: RJ DONOVAN PRISON OTA 275    Time: 08:10:16    Diff: 3
+03/31/18 09:58:19 -- No Match Found  --
+03/31/18 22:28:26 -- Alarm Triggered -- DPA: CASDF    Number:  2018004834 Name: GEORGE BAILEY DETENTIO 64    Time: 22:28:20    Diff: 6
+03/31/18 23:53:13 -- No Match Found  --
+04/01/18 00:43:20 -- No Match Found  --
+04/01/18 05:21:31 -- Alarm Triggered -- DPA: CASDF    Number:  2018004848 Name: DONOVAN PRISON OTAY_ME 70    Time: 05:19:48    Diff: 103
+04/01/18 06:31:30 -- No Match Found  --
+04/01/18 07:31:42 -- No Match Found  --
+04/01/18 20:57:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018004886 Name: RJ DONOVAN PRISON OTA 276    Time: 20:55:41    Diff: 103
+04/01/18 22:48:03 -- No Match Found  --
+04/02/18 07:31:43 -- No Match Found  --
+04/02/18 15:48:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018004921 Name: RJ DONOVAN PRISON OTA 277    Time: 15:46:42    Diff: 102
+04/02/18 16:27:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018004923 Name: RJ DONOVAN PRISON OTA 278    Time: 16:25:25    Diff: 103
+04/02/18 16:31:46 -- No Match Found  --
+04/02/18 16:35:06 -- No Match Found  --
+04/02/18 16:50:00 -- Alarm Triggered -- DPA: CASDF    Number:  2018004926 Name: RJ DONOVAN PRISON OTA 279    Time: 16:48:04    Diff: 116
+04/02/18 16:54:30 -- Time over 4 min -- DPA: CASDF    Number:  2018004923 Name: RJ DONOVAN PRISON OTA 278    Time: 16:25:25    Diff: 1745
+04/02/18 18:07:53 -- No Match Found  --
+04/02/18 18:26:39 -- No Match Found  --
+04/02/18 18:43:51 -- No Match Found  --
+04/03/18 07:31:43 -- No Match Found  --
+04/03/18 11:29:53 -- Alarm Triggered -- DPA: CASDF    Number:  2018004958 Name: RJ DONOVAN PRISON OTA 280    Time: 11:28:10    Diff: 103
+04/03/18 11:34:47 -- Alarm Triggered -- DPA: CASDF    Number:  2018004960 Name: RJ DONOVAN PRISON OTA 281    Time: 11:33:04    Diff: 103
+04/03/18 12:07:03 -- Alarm Triggered -- DPA: CASDF    Number:  2018004963 Name: RJ DONOVAN PRISON OTA 283    Time: 12:05:20    Diff: 103
+04/03/18 12:12:08 -- No Match Found  --
+04/03/18 12:15:28 -- No Match Found  --
+04/03/18 12:28:26 -- No Match Found  --
+04/03/18 13:01:36 -- No Match Found  --
+04/03/18 13:57:33 -- No Match Found  --
+04/03/18 14:01:02 -- No Match Found  --
+04/03/18 22:49:23 -- Alarm Triggered -- DPA: CASDF    Number:  2018004987 Name: CALZADA DE LA FUENTE R 43    Time: 22:47:41    Diff: 102
+04/04/18 00:27:11 -- No Match Found  --
+04/04/18 01:56:32 -- Alarm Triggered -- DPA: CASDF    Number:  2018004988 Name: GEORGE BAILEY DETENTIO 65    Time: 01:54:49    Diff: 103
+04/04/18 03:03:16 -- No Match Found  --
+04/04/18 07:31:42 -- No Match Found  --
+04/04/18 10:43:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018005005 Name: DONOVAN PRISON OTAY_ME 71    Time: 10:41:43    Diff: 102
+04/04/18 12:18:37 -- No Match Found  --
+04/04/18 12:42:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018005011 Name: RJ DONOVAN PRISON OTA 284    Time: 12:41:01    Diff: 102
+04/04/18 15:33:41 -- No Match Found  --
+04/04/18 16:51:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018005024 Name: RJ DONOVAN PRISON OTA 285    Time: 16:49:37    Diff: 102
+04/04/18 19:11:15 -- No Match Found  --
+04/04/18 19:30:40 -- Alarm Triggered -- DPA: CASDF    Number:  2018005030 Name: GEORGE BAILEY DETENTIO 66    Time: 19:28:57    Diff: 103
+04/04/18 21:45:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018005034 Name: CALZADA DE LA FUENTE R 44    Time: 21:43:25    Diff: 103
+04/04/18 23:04:37 -- No Match Found  --
+04/04/18 23:38:55 -- No Match Found  --
+04/05/18 00:58:44 -- Alarm Triggered -- DPA: CASDF    Number:  2018005041 Name: RJ DONOVAN PRISON OTA 286    Time: 00:57:02    Diff: 102
+04/05/18 03:01:21 -- No Match Found  --
+04/05/18 07:31:43 -- No Match Found  --
+04/05/18 07:35:43 -- No Match Found  --
+04/05/18 11:44:07 -- No Match Found  --
+04/05/18 17:45:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018005080 Name: CCA SAN DIEGO OTAY 20    Time: 17:44:04    Diff: 102
+04/05/18 18:15:51 -- Alarm Triggered -- DPA: CASDF    Number:  2018005081 Name: DONOVAN PRISON OTAY_ME 72    Time: 18:14:08    Diff: 103
+04/05/18 18:22:17 -- No Match Found  --
+04/05/18 19:09:38 -- Alarm Triggered -- DPA: CASDF    Number:  2018005084 Name: RJ DONOVAN PRISON OTA 287    Time: 19:07:56    Diff: 102
+04/05/18 19:27:04 -- No Match Found  --
+04/05/18 21:57:09 -- No Match Found  --
+04/06/18 07:31:44 -- No Match Found  --
+04/06/18 09:13:01 -- Alarm Triggered -- DPA: CASDF    Number:  2018005100 Name: RJ DONOVAN PRISON OTA 289    Time: 09:11:19    Diff: 102
+04/06/18 11:33:06 -- No Match Found  --
+04/06/18 14:03:01 -- Alarm Triggered -- DPA: CASDF    Number:  2018005121 Name: DONOVAN PRISON OTAY_ME 73    Time: 14:01:14    Diff: 107
+04/06/18 16:38:39 -- No Match Found  --
+04/06/18 18:51:37 -- Alarm Triggered -- DPA: CASDF    Number:  2018005132 Name: RJ DONOVAN PRISON OTA 291    Time: 18:49:53    Diff: 104
+04/06/18 20:35:46 -- No Match Found  --
+04/06/18 21:09:31 -- No Match Found  --
+04/06/18 21:11:46 -- No Match Found  --
+04/06/18 21:12:23 -- No Match Found  --
+04/06/18 21:12:38 -- No Match Found  --
+04/06/18 21:12:40 -- No Match Found  --
+04/06/18 21:12:41 -- No Match Found  --
+04/06/18 21:12:51 -- No Match Found  --
+04/06/18 21:13:14 -- No Match Found  --
+04/06/18 21:13:43 -- No Match Found  --
+04/06/18 21:14:04 -- No Match Found  --
+04/06/18 21:14:20 -- No Match Found  --
+04/06/18 21:14:36 -- No Match Found  --
+04/06/18 21:14:56 -- No Match Found  --
+04/06/18 21:15:20 -- No Match Found  --
+04/06/18 21:15:44 -- No Match Found  --
+04/06/18 21:16:08 -- No Match Found  --
+04/06/18 21:16:32 -- No Match Found  --
+04/06/18 21:16:56 -- No Match Found  --
+04/06/18 21:17:21 -- No Match Found  --
+04/06/18 21:18:18 -- No Match Found  --
+04/06/18 21:18:38 -- No Match Found  --
+04/06/18 21:18:54 -- No Match Found  --
+04/06/18 21:19:10 -- No Match Found  --
+04/06/18 21:19:24 -- No Match Found  --
+04/06/18 21:19:33 -- No Match Found  --
+04/06/18 21:20:12 -- No Match Found  --
+04/06/18 21:20:39 -- No Match Found  --
+04/07/18 05:42:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018005145 Name: CALZADA DE LA FUENTE R 45    Time: 05:40:26    Diff: 102
+04/07/18 06:56:07 -- Alarm Triggered -- DPA: CASDF    Number:  2018005148 Name: RJ DONOVAN PRISON OTA 292    Time: 06:54:23    Diff: 104
+04/07/18 06:59:27 -- No Match Found  --
+04/07/18 07:01:07 -- Time over 4 min -- DPA: CASDF    Number:  2018005148 Name: RJ DONOVAN PRISON OTA 292    Time: 06:54:23    Diff: 404
+04/07/18 07:31:45 -- No Match Found  --
+04/07/18 08:27:18 -- No Match Found  --
+04/07/18 09:45:36 -- Alarm Triggered -- DPA: CASDF    Number:  2018005157 Name: RJ DONOVAN PRISON OTA 293    Time: 09:43:54    Diff: 103
+04/07/18 11:12:13 -- No Match Found  --
+04/07/18 13:47:23 -- No Match Found  --
+04/07/18 19:03:54 -- Alarm Triggered -- DPA: CASDF    Number:  2018005198 Name: DONOVAN PRISON OTAY_ME 75    Time: 19:02:12    Diff: 102
+04/07/18 20:58:54 -- Alarm Triggered -- DPA: CASDF    Number:  2018005205 Name: DONOVAN PRISON OTAY_ME 77    Time: 20:57:11    Diff: 103
+04/07/18 21:00:34 -- No Match Found  --
+04/07/18 23:06:58 -- No Match Found  --
+04/08/18 05:18:38 -- Alarm Triggered -- DPA: CASDF    Number:  2018005212 Name: DONOVAN PRISON OTAY_ME 78    Time: 05:16:56    Diff: 102
+04/08/18 06:41:16 -- No Match Found  --
+04/08/18 07:31:42 -- No Match Found  --
+04/08/18 10:32:48 -- Alarm Triggered -- DPA: CASDF    Number:  2018005223 Name: RJ DONOVAN PRISON OTA 294    Time: 10:31:06    Diff: 102
+04/08/18 12:53:00 -- No Match Found  --
+04/08/18 13:19:20 -- Alarm Triggered -- DPA: CASDF    Number:  2018005237 Name: RJ DONOVAN PRISON OTA 295    Time: 13:17:38    Diff: 102
+04/08/18 14:50:33 -- Time over 4 min -- DPA: CASDF    Number:  2018005241 Name: RJ DONOVAN PRISON OTA 296    Time: 13:35:27    Diff: 4506
+04/08/18 15:21:32 -- No Match Found  --
+04/08/18 17:45:37 -- No Match Found  --
+04/08/18 17:58:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018005259 Name: RJ DONOVAN PRISON OTA 297    Time: 17:57:10    Diff: 103
+04/08/18 18:41:49 -- Alarm Triggered -- DPA: CASDF    Number:  2018005263 Name: RJ DONOVAN PRISON OTA 298    Time: 18:40:02    Diff: 107
+04/08/18 19:25:34 -- No Match Found  --
+04/08/18 20:19:39 -- No Match Found  --
+04/09/18 05:02:47 -- Alarm Triggered -- DPA: CASDF    Number:  2018005277 Name: DONOVAN PRISON OTAY_ME 79    Time: 05:01:05    Diff: 102
+04/09/18 06:07:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018005280 Name: RJ DONOVAN PRISON OTA 299    Time: 06:06:00    Diff: 103
+04/09/18 06:35:17 -- No Match Found  --
+04/09/18 06:40:19 -- No Match Found  --
+04/09/18 07:31:43 -- No Match Found  --
+04/09/18 09:02:56 -- No Match Found  --
+04/09/18 09:21:45 -- Alarm Triggered -- DPA: CASDF    Number:  2018005284 Name: RJ DONOVAN PRISON OTA 301    Time: 09:20:01    Diff: 104
+04/09/18 09:31:41 -- No Match Found  --
+04/09/18 09:35:33 -- No Match Found  --
+04/09/18 09:37:50 -- No Match Found  --
+04/09/18 09:39:10 -- Time over 4 min -- DPA: CASDF    Number:  2018002836 Name: BP BOULEVARD OFFICE BOU 7    Time: 22:24:44    Diff: -45934
+04/09/18 09:39:22 -- Time over 4 min -- DPA: CASDF    Number:  2018002836 Name: BP BOULEVARD OFFICE BOU 7    Time: 22:24:44    Diff: -45922
+04/09/18 10:55:58 -- Alarm Triggered -- DPA: CASDF    Number:  2018005290 Name: RJ DONOVAN PRISON OTA 302    Time: 10:54:16    Diff: 102
+04/09/18 12:03:54 -- No Match Found  --
+04/09/18 14:59:04 -- No Match Found  --
+04/10/18 06:16:10 -- Alarm Triggered -- DPA: CASDF    Number:  2018005332 Name: RJ DONOVAN PRISON OTA 304    Time: 06:16:07    Diff: 3
+04/10/18 07:01:33 -- No Match Found  --
+04/10/18 07:30:03 -- No Match Found  --
+04/10/18 08:56:10 -- Alarm Triggered -- DPA: CASDF    Number:  2018005340 Name: RJ DONOVAN PRISON OTA 305    Time: 08:56:07    Diff: 4
+04/10/18 11:10:22 -- No Match Found  --
+04/10/18 11:49:13 -- Alarm Triggered -- DPA: CASDF    Number:  2018005349 Name: EAST MESA DETENTION FAC 5    Time: 11:49:10    Diff: 3
+04/10/18 13:37:47 -- No Match Found  --
+04/10/18 15:49:36 -- No Match Found  --
+04/11/18 07:30:04 -- No Match Found  --
+04/12/18 07:30:03 -- No Match Found  --
+04/13/18 06:52:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018005488 Name: RJ DONOVAN PRISON OTA 309    Time: 06:52:20    Diff: 5
+04/13/18 07:19:08 -- No Match Found  --
+04/13/18 07:30:03 -- No Match Found  --
+04/13/18 08:43:10 -- No Match Found  --
+04/13/18 21:00:15 -- Alarm Triggered -- DPA: CASDF    Number:  2018005531 Name: PIONEER WY  JAMUL 6    Time: 21:00:13    Diff: 2
+04/13/18 21:33:21 -- Alarm Triggered -- DPA: CASDF    Number:  2018005533 Name: GEORGE BAILEY DETENTIO 67    Time: 21:33:19    Diff: 2
+04/13/18 22:39:42 -- No Match Found  --
+04/13/18 22:47:57 -- No Match Found  --
+04/13/18 23:05:17 -- Time over 4 min -- DPA: CASDF    Number:  2018005538 Name: PIPER RANCH RD  OTAY_ME 5    Time: 22:44:49    Diff: 1228
+04/13/18 23:05:21 -- No Match Found  --
+04/13/18 23:22:22 -- No Match Found  --
+04/14/18 00:10:56 -- No Match Found  --
+04/14/18 07:30:02 -- No Match Found  --
+04/14/18 13:48:01 -- Alarm Triggered -- DPA: CASDF    Number:  2018005569 Name: RJ DONOVAN PRISON OTA 314    Time: 13:47:57    Diff: 4
+04/14/18 15:41:29 -- No Match Found  --
+04/14/18 20:00:11 -- No Match Found  --
+04/14/18 22:00:43 -- Alarm Triggered -- DPA: CASDF    Number:  2018005608 Name: DONOVAN PRISON OTAY_ME 81    Time: 22:00:39    Diff: 4
+04/14/18 22:34:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018005610 Name: CALZADA DE LA FUENTE R 47    Time: 22:34:17    Diff: 2
+04/14/18 23:44:42 -- No Match Found  --
+04/15/18 00:08:07 -- Alarm Triggered -- DPA: CASDF    Number:  2018005613 Name: CALZADA DE LA FUENTE R 48    Time: 00:08:05    Diff: 2
+04/15/18 00:53:05 -- No Match Found  --
+04/15/18 01:18:33 -- No Match Found  --
+04/15/18 03:16:05 -- Alarm Triggered -- DPA: CASDF    Number:  2018005619 Name: RJ DONOVAN PRISON OTA 316    Time: 03:16:01    Diff: 4
+04/15/18 04:41:30 -- No Match Found  --
+04/15/18 07:30:03 -- No Match Found  --
+04/15/18 21:01:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018005661 Name: RJ DONOVAN PRISON OTA 317    Time: 21:01:15    Diff: 4
+04/15/18 22:59:57 -- No Match Found  --
+04/16/18 07:30:03 -- No Match Found  --
+04/16/18 12:03:30 -- Alarm Triggered -- DPA: CASDF    Number:  2018005683 Name: DONOVAN PRISON OTAY_ME 82    Time: 12:03:27    Diff: 3
+04/16/18 14:09:37 -- No Match Found  --
+04/16/18 14:12:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018005694 Name: RJ DONOVAN PRISON OTA 318    Time: 14:12:04    Diff: 4
+04/16/18 14:35:33 -- Alarm Triggered -- DPA: CASDF    Number:  2018005696 Name: RJ DONOVAN PRISON OTA 319    Time: 14:35:29    Diff: 4
+04/16/18 16:52:28 -- No Match Found  --
+04/16/18 16:56:30 -- No Match Found  --
+04/16/18 20:45:39 -- Alarm Triggered -- DPA: CASDF    Number:  2018005719 Name: RJ DONOVAN PRISON OTA 320    Time: 20:45:35    Diff: 4
+04/16/18 23:03:21 -- No Match Found  --
+04/17/18 07:30:03 -- No Match Found  --
+04/17/18 08:07:07 -- No Match Found  --
+04/17/18 08:42:15 -- Alarm Triggered -- DPA: CASDF    Number:  2018005735 Name: A10    Time: 08:40:40    Diff: 95
+04/17/18 09:39:44 -- No Match Found  --
+04/17/18 10:20:33 -- No Match Found  --
+04/17/18 12:39:18 -- Alarm Triggered -- DPA: CASDF    Number:  2018005750 Name: DONOVAN PRISON OTAY_ME 83    Time: 12:39:13    Diff: 5
+04/17/18 15:08:21 -- No Match Found  --
+04/17/18 15:45:59 -- No Match Found  --
+04/17/18 15:48:37 -- Alarm Triggered -- DPA: CASDF    Number:  2018005755 Name: GEORGE BAILEY DETENTIO 68    Time: 15:47:22    Diff: 75
+04/17/18 16:25:51 -- No Match Found  --
+04/17/18 17:28:38 -- No Match Found  --
+04/17/18 22:31:17 -- No Match Found  --
+04/18/18 08:20:52 -- No Match Found  --
+04/18/18 11:32:18 -- Alarm Triggered -- DPA: CASDF    Number:  2018005796 Name: DONOVAN PRISON OTAY_ME 84    Time: 11:30:32    Diff: 106
+04/18/18 18:11:04 -- Alarm Triggered -- DPA: CASDF    Number:  2018005828 Name: DONOVAN PRISON OTAY_ME 85    Time: 18:09:20    Diff: 104
+04/18/18 19:55:09 -- No Match Found  --
+04/19/18 01:03:00 -- Alarm Triggered -- DPA: CASDF    Number:  2018005844 Name: RJ DONOVAN PRISON OTA 327    Time: 01:01:17    Diff: 103
+04/19/18 02:23:27 -- No Match Found  --
+04/19/18 05:56:27 -- No Match Found  --
+04/19/18 09:21:37 -- Alarm Triggered -- DPA: CASDF    Number:  2018005855 Name: RJ DONOVAN PRISON OTA 328    Time: 09:19:52    Diff: 105
+04/19/18 10:10:46 -- Alarm Triggered -- DPA: CASDF    Number:  2018005860 Name: RJ DONOVAN PRISON OTA 329    Time: 10:08:38    Diff: 128
+04/19/18 10:15:38 -- Alarm Triggered -- DPA: CASDF    Number:  2018005861 Name: RJ DONOVAN PRISON OTA 330    Time: 10:13:50    Diff: 108
+04/19/18 10:48:11 -- No Match Found  --
+04/19/18 11:15:39 -- Alarm Triggered -- DPA: CASDF    Number:  2018005863 Name: CALZADA DE LA FUENTE R 49    Time: 11:13:57    Diff: 102
+04/19/18 11:19:13 -- No Match Found  --
+04/19/18 12:36:32 -- No Match Found  --
+04/19/18 16:33:06 -- Alarm Triggered -- DPA: CASDF    Number:  2018005881 Name: RJ DONOVAN PRISON OTA 331    Time: 16:31:23    Diff: 103
+04/19/18 16:41:59 -- Alarm Triggered -- DPA: CASDF    Number:  2018005882 Name: RJ DONOVAN PRISON OTA 332    Time: 16:40:15    Diff: 104
+04/19/18 16:50:47 -- Alarm Triggered -- DPA: CASDF    Number:  2018005883 Name: BARRETT LAKE RD  BARRET 4    Time: 16:49:06    Diff: 101
+04/19/18 18:37:19 -- No Match Found  --
+04/19/18 19:13:59 -- Alarm Triggered -- DPA: CASDF    Number:  2018005892 Name: RJ DONOVAN PRISON OTA 334    Time: 19:12:16    Diff: 103
+04/19/18 19:51:08 -- No Match Found  --
+04/19/18 20:20:33 -- No Match Found  --
+04/19/18 20:48:08 -- No Match Found  --
+04/19/18 21:51:24 -- No Match Found  --
+04/19/18 21:51:26 -- No Match Found  --
+04/19/18 21:51:28 -- No Match Found  --
+04/19/18 21:51:29 -- No Match Found  --
+04/19/18 21:51:31 -- No Match Found  --
+04/19/18 21:51:33 -- No Match Found  --
+04/19/18 21:51:34 -- No Match Found  --
+04/19/18 21:51:36 -- No Match Found  --
+04/19/18 21:51:38 -- No Match Found  --
+04/19/18 21:51:40 -- No Match Found  --
+04/19/18 21:51:41 -- No Match Found  --
+04/19/18 21:51:43 -- No Match Found  --
+04/19/18 21:51:45 -- No Match Found  --
+04/19/18 21:51:47 -- No Match Found  --
+04/19/18 21:51:49 -- No Match Found  --
+04/19/18 21:51:50 -- No Match Found  --
+04/19/18 21:51:52 -- No Match Found  --
+04/19/18 21:51:54 -- No Match Found  --
+04/19/18 21:51:55 -- No Match Found  --
+04/19/18 21:51:57 -- No Match Found  --
+04/19/18 21:51:59 -- No Match Found  --
+04/19/18 21:52:00 -- No Match Found  --
+04/19/18 23:42:25 -- Alarm Triggered -- DPA: CASDF    Number:  2018005898 Name: RJ DONOVAN PRISON OTA 335    Time: 23:40:41    Diff: 104
+04/20/18 01:31:43 -- No Match Found  --
+04/20/18 04:48:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018005902 Name: RJ DONOVAN PRISON OTA 336    Time: 04:46:24    Diff: 104
+04/20/18 07:14:26 -- No Match Found  --
+04/20/18 07:39:26 -- Alarm Triggered -- DPA: CASDF    Number:  2018005909 Name: RJ DONOVAN PRISON OTA 337    Time: 07:37:43    Diff: 104
+04/20/18 07:46:21 -- Alarm Triggered -- DPA: CASDF    Number:  2018005910 Name: CCA SAN DIEGO OTAY 24    Time: 07:44:40    Diff: 101
+04/20/18 09:01:12 -- Alarm Triggered -- DPA: CASDF    Number:  2018005913 Name: RJ DONOVAN PRISON OTA 338    Time: 09:01:07    Diff: 5
+04/20/18 09:26:56 -- No Match Found  --
+04/20/18 10:02:13 -- Alarm Triggered -- DPA: CASDF    Number:  2018005917 Name: RJ DONOVAN PRISON OTA 339    Time: 10:02:09    Diff: 4
+04/20/18 10:17:07 -- No Match Found  --
+04/20/18 10:50:15 -- Alarm Triggered -- DPA: CASDF    Number:  2018005922 Name: RJ DONOVAN PRISON OTA 340    Time: 10:50:12    Diff: 4
+04/20/18 11:19:10 -- No Match Found  --
+04/20/18 11:44:44 -- Alarm Triggered -- DPA: CASDF    Number:  2018005927 Name: RJ DONOVAN PRISON OTA 342    Time: 11:44:40    Diff: 4
+04/20/18 12:24:02 -- No Match Found  --
+04/20/18 12:33:09 -- No Match Found  --
+04/20/18 14:13:24 -- No Match Found  --
+04/20/18 20:37:17 -- No Match Found  --
+04/20/18 20:45:12 -- No Match Found  --
+04/23/18 12:16:44 -- No Match Found  --
+04/23/18 12:53:06 -- Alarm Triggered -- DPA: CASDF    Number:  2018006113 Name: RJ DONOVAN PRISON OTA 351    Time: 12:53:02    Diff: 4
+04/23/18 12:53:07 -- No Match Found  --
+04/23/18 12:55:36 -- Time over 4 min -- DPA: CASDF    Number:  2018006105 Name: CALZADA DE LA FUENTE R 51    Time: 11:02:04    Diff: 6812
+04/23/18 12:55:37 -- Time over 4 min -- DPA: CASDF    Number:  2018006105 Name: CALZADA DE LA FUENTE R 51    Time: 11:02:04    Diff: 6813
+04/23/18 12:55:38 -- No Match Found  --
+04/23/18 12:55:44 -- No Match Found  --
+04/23/18 14:24:52 -- Alarm Triggered -- DPA: CASDF    Number:  2018006121 Name: RJ DONOVAN PRISON OTA 352    Time: 14:24:39    Diff: 13
+04/23/18 14:43:54 -- No Match Found  --
+04/23/18 14:44:08 -- Alarm Triggered -- DPA: CASDF    Number:  2018006122 Name: CALZADA DE LA FUENTE R 52    Time: 14:44:07    Diff: 1
+04/23/18 15:06:35 -- No Match Found  --
+04/23/18 17:03:45 -- No Match Found  --
+04/23/18 18:49:55 -- No Match Found  --
+04/24/18 01:01:14 -- No Match Found  --
+04/24/18 11:16:50 -- Time over 4 min -- DPA: CASDF    Number:  2018006149 Name: RJ DONOVAN PRISON OTA 354    Time: 10:59:59    Diff: 1011
+04/24/18 11:27:40 -- Time over 4 min -- DPA: CASDF    Number:  2018006150 Name: RJ DONOVAN PRISON OTA 355    Time: 11:21:54    Diff: 346
+04/24/18 11:27:41 -- No Match Found  --
+04/24/18 12:06:00 -- Alarm Triggered -- DPA: CASDF    Number:  2018006154 Name: VIA PAMELA   DEERHORN_V 2    Time: 12:05:59    Diff: 2
+04/24/18 13:21:24 -- Alarm Triggered -- DPA: CASDF    Number:  2018006158 Name: RJ DONOVAN PRISON OTA 356    Time: 13:21:19    Diff: 5
+04/24/18 13:23:05 -- No Match Found  --
+04/24/18 14:12:13 -- Alarm Triggered -- DPA: CASDF    Number:  2018006160 Name: RJ DONOVAN PRISON OTA 357    Time: 14:10:29    Diff: 104
+04/24/18 15:24:32 -- No Match Found  --
+04/24/18 16:24:41 -- No Match Found  --
+04/24/18 16:41:50 -- Alarm Triggered -- DPA: CASDF    Number:  2018006172 Name: RJ DONOVAN PRISON OTA 358    Time: 16:40:07    Diff: 103
+04/24/18 18:43:42 -- No Match Found  --
+04/24/18 20:54:33 -- Alarm Triggered -- DPA: CASDF    Number:  2018006179 Name: RJ DONOVAN PRISON OTA 359    Time: 20:52:49    Diff: 104
+04/24/18 21:25:03 -- No Match Found  --
+04/24/18 22:20:12 -- Alarm Triggered -- DPA: CASDF    Number:  2018006182 Name: RJ DONOVAN PRISON OTA 360    Time: 22:18:29    Diff: 103
+04/25/18 01:06:33 -- No Match Found  --
+04/25/18 04:12:10 -- No Match Found  --
+04/25/18 06:36:14 -- No Match Found  --
+04/25/18 07:15:14 -- Time over 4 min -- DPA: CAPAL    Number:  2018006156 Name: CWD 2018    Time: 12:41:10    Diff: -19556
+04/25/18 11:25:31 -- No Match Found  --
+04/25/18 13:08:59 -- Alarm Triggered -- DPA: CASDF    Number:  2018006216 Name: RJ DONOVAN PRISON OTA 364    Time: 13:07:15    Diff: 104
+04/25/18 15:29:53 -- No Match Found  --
+04/25/18 18:26:05 -- No Match Found  --
+04/25/18 19:57:24 -- No Match Found  --
+04/26/18 06:51:49 -- No Match Found  --
+04/26/18 07:12:04 -- No Match Found  --
+04/26/18 08:43:59 -- No Match Found  --
+04/26/18 12:54:10 -- No Match Found  --
+04/26/18 13:40:22 -- No Match Found  --
+04/26/18 15:23:33 -- No Match Found  --
+04/26/18 15:44:36 -- No Match Found  --
+04/26/18 17:25:51 -- No Match Found  --
+04/26/18 19:21:18 -- No Match Found  --
+04/27/18 10:11:14 -- No Match Found  --
+04/27/18 10:20:24 -- No Match Found  --
+04/27/18 11:52:30 -- No Match Found  --
+04/27/18 11:55:29 -- No Match Found  --
+04/27/18 13:41:27 -- No Match Found  --
+04/27/18 14:24:43 -- No Match Found  --
+04/27/18 15:03:03 -- No Match Found  --
+04/27/18 16:17:04 -- No Match Found  --
+04/27/18 16:45:28 -- No Match Found  --
+04/27/18 19:10:16 -- No Match Found  --
+04/27/18 19:52:58 -- No Match Found  --
+04/27/18 19:53:04 -- No Match Found  --
+04/27/18 19:53:10 -- No Match Found  --
+04/27/18 19:53:16 -- No Match Found  --
+04/27/18 19:53:22 -- No Match Found  --
+04/27/18 19:53:23 -- No Match Found  --
+04/27/18 19:53:26 -- No Match Found  --
+04/27/18 19:53:32 -- No Match Found  --
+04/27/18 19:53:35 -- No Match Found  --
+04/27/18 19:53:41 -- No Match Found  --
+04/27/18 19:53:47 -- No Match Found  --
+04/27/18 19:53:53 -- No Match Found  --
+04/27/18 19:53:59 -- No Match Found  --
+04/27/18 19:54:05 -- No Match Found  --
+04/27/18 19:54:11 -- No Match Found  --
+04/27/18 19:54:17 -- No Match Found  --
+04/27/18 19:54:23 -- No Match Found  --
+04/27/18 19:54:29 -- No Match Found  --
+04/27/18 19:54:35 -- No Match Found  --
+04/27/18 19:54:41 -- No Match Found  --
+04/27/18 19:54:47 -- No Match Found  --
+04/27/18 19:54:53 -- No Match Found  --
+04/27/18 19:54:59 -- No Match Found  --
+04/27/18 19:55:05 -- No Match Found  --
+04/27/18 19:55:08 -- No Match Found  --
+04/27/18 19:55:13 -- No Match Found  --
+04/27/18 19:55:16 -- No Match Found  --
+04/27/18 19:55:20 -- No Match Found  --
+04/27/18 19:55:38 -- No Match Found  --
+04/27/18 20:01:13 -- No Match Found  --
+04/27/18 20:48:14 -- No Match Found  --
+04/27/18 21:09:06 -- No Match Found  --
+04/27/18 23:01:02 -- No Match Found  --
+04/28/18 14:54:00 -- No Match Found  --
+04/28/18 15:18:17 -- No Match Found  --
+04/28/18 16:33:39 -- No Match Found  --
+04/28/18 17:23:43 -- No Match Found  --
+04/28/18 17:26:06 -- No Match Found  --
+04/28/18 18:05:18 -- No Match Found  --
+04/28/18 19:10:11 -- No Match Found  --
+04/28/18 20:30:23 -- No Match Found  --
+04/29/18 02:34:57 -- No Match Found  --
+04/29/18 04:05:39 -- No Match Found  --
+04/29/18 07:19:47 -- No Match Found  --
+04/29/18 14:48:03 -- No Match Found  --
+04/29/18 16:28:38 -- No Match Found  --
+04/30/18 00:03:55 -- No Match Found  --
+04/30/18 00:07:42 -- No Match Found  --
+04/30/18 00:08:16 -- No Match Found  --
+04/30/18 01:15:39 -- No Match Found  --
+04/30/18 06:22:35 -- No Match Found  --
+04/30/18 06:37:50 -- No Match Found  --
+04/30/18 08:52:18 -- No Match Found  --
+04/30/18 10:26:42 -- No Match Found  --
+04/30/18 10:45:45 -- Alarm Triggered -- DPA: CASDF    Number:  2018006476 Name: RJ DONOVAN PRISON OTA 378    Time: 10:44:01    Diff: 104
+04/30/18 12:07:40 -- Alarm Triggered -- DPA: CASDF    Number:  2018006479 Name: RJ DONOVAN PRISON OTA 379    Time: 12:05:55    Diff: 105
+04/30/18 12:23:19 -- No Match Found  --
+04/30/18 12:33:39 -- No Match Found  --
+04/30/18 14:22:41 -- No Match Found  --
+05/01/18 03:44:39 -- Alarm Triggered -- DPA: CASDF    Number:  2018006505 Name: GEORGE BAILEY DETENTIO 73    Time: 03:42:56    Diff: 103
+05/01/18 04:48:07 -- No Match Found  --
+05/01/18 07:22:42 -- No Match Found  --
+05/01/18 09:44:19 -- Alarm Triggered -- DPA: CASDF    Number:  2018006516 Name: RJ DONOVAN PRISON OTA 381    Time: 09:42:35    Diff: 104
+05/01/18 19:16:03 -- No Match Found  --
+05/01/18 19:18:38 -- Alarm Triggered -- DPA: CASDF    Number:  2018006537 Name: RJ DONOVAN PRISON OTA 385    Time: 19:16:52    Diff: 106
+05/01/18 19:49:55 -- No Match Found  --
+05/01/18 20:03:38 -- Alarm Triggered -- DPA: CASDF    Number:  2018006539 Name: RJ DONOVAN PRISON OTA 386    Time: 20:01:55    Diff: 103
+05/01/18 20:19:00 -- No Match Found  --
+05/01/18 21:44:00 -- No Match Found  --
+05/01/18 22:04:27 -- No Match Found  --
+05/02/18 06:13:39 -- Alarm Triggered -- DPA: CASDF    Number:  2018006551 Name: RJ DONOVAN PRISON OTA 387    Time: 06:11:55    Diff: 104
+05/02/18 06:44:35 -- No Match Found  --
+05/02/18 09:30:31 -- Alarm Triggered -- DPA: CASDF    Number:  2018006562 Name: EAST MESA DETENTION FAC 7    Time: 09:28:49    Diff: 102
+05/02/18 10:57:42 -- No Match Found  --
+05/02/18 10:58:11 -- No Match Found  --
+05/02/18 11:08:26 -- Alarm Triggered -- DPA: CASDF    Number:  2018006566 Name: RJ DONOVAN PRISON OTA 388    Time: 11:08:22    Diff: 4
+05/02/18 11:10:47 -- Alarm Triggered -- DPA: CASDF    Number:  2018006566 Name: RJ DONOVAN PRISON OTA 388    Time: 11:08:22    Diff: 145
+05/02/18 11:10:48 -- No Match Found  --
+05/02/18 11:10:59 -- No Match Found  --
+05/02/18 11:36:35 -- Alarm Triggered -- DPA: CASDF    Number:  2018006567 Name: DONOVAN PRISON OTAY_ME 91    Time: 11:36:32    Diff: 3
+05/02/18 13:09:04 -- No Match Found  --
+05/02/18 13:50:34 -- No Match Found  --
+05/02/18 14:20:41 -- Alarm Triggered -- DPA: CASDF    Number:  2018006573 Name: DONOVAN PRISON OTAY_ME 92    Time: 14:20:36    Diff: 5
+05/02/18 15:18:45 -- Alarm Triggered -- DPA: CASDF    Number:  2018006578 Name: MURPHYS CURVE ON HWY 94 3    Time: 15:17:04    Diff: 101
+05/02/18 16:08:22 -- Alarm Triggered -- DPA: CASDF    Number:  2018006580 Name: HWY 94 HWY  JAMUL 19    Time: 16:06:40    Diff: 102
+05/02/18 17:54:13 -- No Match Found  --
+05/02/18 20:14:31 -- Alarm Triggered -- DPA: CASDF    Number:  2018006588 Name: DONOVAN PRISON OTAY_ME 93    Time: 20:12:48    Diff: 103
+05/02/18 22:20:24 -- No Match Found  --
+05/02/18 22:56:28 -- Alarm Triggered -- DPA: CASDF    Number:  2018006597 Name: GEORGE BAILEY DETENTIO 76    Time: 22:54:46    Diff: 102
+05/03/18 00:40:32 -- No Match Found  --
+05/03/18 00:46:43 -- No Match Found  --
+05/03/18 03:40:44 -- Alarm Triggered -- DPA: CASDF    Number:  2018006601 Name: RJ DONOVAN PRISON OTA 389    Time: 03:39:01    Diff: 103
+05/03/18 05:25:49 -- No Match Found  --
+05/03/18 11:22:09 -- Alarm Triggered -- DPA: CASDF    Number:  2018006621 Name: RJ DONOVAN PRISON OTA 390    Time: 11:20:26    Diff: 103
+05/03/18 11:26:44 -- Alarm Triggered -- DPA: CASDF    Number:  2018006623 Name: GEORGE BAILEY DETENTIO 77    Time: 11:25:01    Diff: 103
+05/03/18 20:04:10 -- No Match Found  --
+05/03/18 21:06:45 -- Time over 4 min -- DPA: CASDF    Number:  2018006644 Name: RJ DONOVAN PRISON OTA 393    Time: 20:55:55    Diff: 651
+05/03/18 21:08:26 -- No Match Found  --
+05/03/18 21:30:21 -- No Match Found  --
+05/03/18 23:05:50 -- No Match Found  --
+05/04/18 03:53:28 -- No Match Found  --
+05/04/18 09:53:04 -- No Match Found  --
+05/04/18 11:31:53 -- No Match Found  --

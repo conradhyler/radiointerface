@@ -24,7 +24,7 @@ while true; do
     "1" "Set Rip and Run Address" \
     "2" "Set CE-1D Address" \
     "3" "Show current Rip and Run Address" \
-	"4" "Show current CE-1D Address"
+	"4" "Show current CE-1D Address" \
 	"5" "Bash Shell"
     2>&1 1>&3)
   exit_status=$?
@@ -93,4 +93,5 @@ while true; do
 	6)
 		/bin/bash
 		;;
+esac
 done

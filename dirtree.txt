@@ -1,11 +1,193 @@
 /home/pi
 ├── ce1d-ip.ini
 ├── configure.sh
+├── dirtree.txt
+├── duplicator.cfg
+├── node_modules
+│   ├── check-node-version
+│   │   ├── bin.js
+│   │   ├── index.js
+│   │   ├── node_modules
+│   │   │   ├── map-values
+│   │   │   │   ├── index.js
+│   │   │   │   ├── package.json
+│   │   │   │   ├── README.md
+│   │   │   │   └── test.js
+│   │   │   ├── minimist
+│   │   │   │   ├── example
+│   │   │   │   │   └── parse.js
+│   │   │   │   ├── index.js
+│   │   │   │   ├── LICENSE
+│   │   │   │   ├── package.json
+│   │   │   │   ├── readme.markdown
+│   │   │   │   └── test
+│   │   │   │       ├── all_bool.js
+│   │   │   │       ├── bool.js
+│   │   │   │       ├── dash.js
+│   │   │   │       ├── default_bool.js
+│   │   │   │       ├── dotted.js
+│   │   │   │       ├── kv_short.js
+│   │   │   │       ├── long.js
+│   │   │   │       ├── num.js
+│   │   │   │       ├── parse.js
+│   │   │   │       ├── parse_modified.js
+│   │   │   │       ├── short.js
+│   │   │   │       ├── stop_early.js
+│   │   │   │       ├── unknown.js
+│   │   │   │       └── whitespace.js
+│   │   │   ├── object-filter
+│   │   │   │   ├── index.js
+│   │   │   │   ├── LICENSE
+│   │   │   │   ├── package.json
+│   │   │   │   ├── README.md
+│   │   │   │   └── test
+│   │   │   │       └── simple-test.js
+│   │   │   ├── run-parallel
+│   │   │   │   ├── index.js
+│   │   │   │   ├── LICENSE
+│   │   │   │   ├── package.json
+│   │   │   │   ├── README.md
+│   │   │   │   └── test
+│   │   │   │       ├── array.js
+│   │   │   │       ├── empty-tasks.js
+│   │   │   │       ├── error.js
+│   │   │   │       ├── no-callback.js
+│   │   │   │       └── object.js
+│   │   │   └── semver
+│   │   │       ├── bin
+│   │   │       │   └── semver
+│   │   │       ├── LICENSE
+│   │   │       ├── package.json
+│   │   │       ├── range.bnf
+│   │   │       ├── README.md
+│   │   │       └── semver.js
+│   │   ├── package.json
+│   │   ├── README.md
+│   │   ├── test.js
+│   │   └── usage.txt
+│   └── duplicator
+│       ├── bin
+│       │   └── duplicator
+│       ├── index.js
+│       ├── Makefile
+│       ├── node_modules
+│       │   ├── bufferedstream
+│       │   │   ├── CHANGES.md
+│       │   │   ├── index.js
+│       │   │   ├── node_modules
+│       │   │   │   ├── bodec
+│       │   │   │   │   ├── bodec-browser.js
+│       │   │   │   │   ├── bodec.js
+│       │   │   │   │   ├── LICENSE
+│       │   │   │   │   ├── package.json
+│       │   │   │   │   └── README.md
+│       │   │   │   ├── describe-property
+│       │   │   │   │   ├── index.js
+│       │   │   │   │   ├── node_modules
+│       │   │   │   │   │   └── object-assign
+│       │   │   │   │   │       ├── index.js
+│       │   │   │   │   │       ├── license
+│       │   │   │   │   │       ├── package.json
+│       │   │   │   │   │       └── readme.md
+│       │   │   │   │   ├── package.json
+│       │   │   │   │   └── README.md
+│       │   │   │   └── events
+│       │   │   │       ├── events.js
+│       │   │   │       ├── History.md
+│       │   │   │       ├── LICENSE
+│       │   │   │       ├── package.json
+│       │   │   │       ├── Readme.md
+│       │   │   │       └── tests
+│       │   │   │           ├── add-listeners.js
+│       │   │   │           ├── check-listener-leaks.js
+│       │   │   │           ├── common.js
+│       │   │   │           ├── index.js
+│       │   │   │           ├── legacy-compat.js
+│       │   │   │           ├── listeners.js
+│       │   │   │           ├── listeners-side-effects.js
+│       │   │   │           ├── max-listeners.js
+│       │   │   │           ├── modify-in-emit.js
+│       │   │   │           ├── num-args.js
+│       │   │   │           ├── once.js
+│       │   │   │           ├── remove-all-listeners.js
+│       │   │   │           ├── remove-listeners.js
+│       │   │   │           ├── set-max-listeners-side-effects.js
+│       │   │   │           └── subclass.js
+│       │   │   ├── package.json
+│       │   │   └── README.md
+│       │   ├── colors
+│       │   │   ├── colors.js
+│       │   │   ├── example.html
+│       │   │   ├── example.js
+│       │   │   ├── MIT-LICENSE.txt
+│       │   │   ├── package.json
+│       │   │   ├── ReadMe.md
+│       │   │   └── test.js
+│       │   └── optimist
+│       │       ├── example
+│       │       │   ├── boolean_double.js
+│       │       │   ├── boolean_single.js
+│       │       │   ├── bool.js
+│       │       │   ├── default_hash.js
+│       │       │   ├── default_singles.js
+│       │       │   ├── divide.js
+│       │       │   ├── line_count.js
+│       │       │   ├── line_count_options.js
+│       │       │   ├── line_count_wrap.js
+│       │       │   ├── nonopt.js
+│       │       │   ├── reflect.js
+│       │       │   ├── short.js
+│       │       │   ├── string.js
+│       │       │   ├── usage-options.js
+│       │       │   └── xup.js
+│       │       ├── index.js
+│       │       ├── LICENSE
+│       │       ├── node_modules
+│       │       │   └── wordwrap
+│       │       │       ├── example
+│       │       │       │   ├── center.js
+│       │       │       │   └── meat.js
+│       │       │       ├── index.js
+│       │       │       ├── LICENSE
+│       │       │       ├── package.json
+│       │       │       ├── README.markdown
+│       │       │       └── test
+│       │       │           ├── break.js
+│       │       │           ├── idleness.txt
+│       │       │           └── wrap.js
+│       │       ├── package.json
+│       │       ├── readme.markdown
+│       │       └── test
+│       │           ├── _
+│       │           │   ├── argv.js
+│       │           │   └── bin.js
+│       │           ├── _.js
+│       │           ├── parse.js
+│       │           └── usage.js
+│       ├── package.json
+│       ├── README.md
+│       └── test
+│           ├── clients
+│           │   └── hello.js
+│           ├── index.test.js
+│           └── servers
+│               ├── hello.js
+│               └── sink.js
 ├── rr-ip.ini
 └── Scripts
     ├── ce1d
     │   ├── ce1d.py
     │   ├── duplicator.sh
-    │   └── monitor.sh
+    │   ├── monitor.sh
+    │   ├── print.sh
+    │   ├── testip.sh
+    │   └── testprint.txt
     └── dialog
-        └── menu.sh
+        ├── ce1d-ip.ini
+        ├── menu2.sh
+        ├── menu3.sh
+        ├── menu.sh
+        ├── menu.sh.save
+        └── rr-ip.ini
+
+39 directories, 151 files

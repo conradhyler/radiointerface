@@ -14,7 +14,9 @@ OPTS=(1 "Set Rip and Run Address"
 	4 "Show current CE-1D Address"  
 	5 "Show MAC Address" 
 	6 "Bash Shell"
-	7 "Reboot")
+	7 "View Logs"
+	8 "View Print Logs"
+	9 "Reboot")
 
 CHOICE=$(dialog --clear \
 		--backtitle "$BACKTITLE" \
@@ -80,6 +82,12 @@ case $CHOICE in
 		/bin/bash
 		;;
 	7)
+	tail -f -n 50 /home/pi/match.log
+	;;
+	8)
+	tail -f -n 55 /home/pi/print.log
+	;;
+	9)
 	sudo reboot
 	;;
 esac

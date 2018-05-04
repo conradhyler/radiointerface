@@ -6,6 +6,9 @@ unset incidentDPA
 unset incidentNum
 unset incidentName
 incoming=$(socat -u tcp-l:3000 STDIO)
+echo -e "--start--" >> /home/pi/print.log
+echo -e "$incoming" >> /home/pi/print.log
+echo -e "---end---" >> /home/pi/print.log
 incoming2=$(echo "$incoming" | sed ':a;N;$!ba;s/\r/ /g')
 curTime=$(date +"%D %T")
 incidentDPA=$(echo "$incoming2" | awk -v FS="(DPA: |Incident Number:     )" '{print $2}' | tr -d "\n")
@@ -18,17 +21,18 @@ convDif=$(echo $(( convDate - convTime)))
 echo -e "DPA: $incidentDPA Number: $incidentNum Name: $incidentName\n"
 if [[ "$incoming2" =~ ^(.*(Description))(.*(Location))(.*(Response))(.*(Incident)).* ]]
 then
-        if [[ $convDif -gt -30 && $convDif -lt 240 ]]
-        then 
-                # if [[ "$incoming2" =~ (.*(Abort)).* ]]
-                # then echo -e "$curTime -- Contained Abort -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/match.log
-                # else
-                echo -e "$curTime -- Alarm Triggered -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/match.log
-                /usr/bin/python /home/pi/Scripts/ce1d/ce1d.py &
-                # fi
-        else echo -e "$curTime -- Time over 4 min -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/match.log
-        fi
+	if [[ $convDif -gt -30 && $convDif -lt 240 ]]
+	then 
+		# if [[ "$incoming2" =~ (.*(Abort)).* ]]
+		# then echo -e "$curTime -- Contained Abort -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/match.log
+		# else
+		echo -e "$curTime -- Alarm Triggered -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/match.log
+		/usr/bin/python /home/pi/Scripts/ce1d/ce1d.py &
+		# fi
+	else echo -e "$curTime -- Time over 4 min -- DPA: $incidentDPA Number: $incidentNum Name: $incidentName Time: $incidentTime Diff: $convDif" >> /home/pi/match.log
+	fi
 # /usr/bin/python /home/pi/Scripts/ce1d/ce1d.py &
 else
 echo -e "$curTime -- No Match Found  --" >> /home/pi/match.log
 fi
+sudo /bin/bash /home/pi/Scripts/ce1d/monitor.sh &

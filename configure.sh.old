@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo sh /home/pi/Scripts/dialog/menu.sh
